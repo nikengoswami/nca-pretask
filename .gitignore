@@ -11,7 +11,9 @@ ENV/
 
 # Training outputs
 outputs/
+outputs_extreme/
 checkpoints/
+checkpoints_extreme/
 *.log
 
 # IDE
